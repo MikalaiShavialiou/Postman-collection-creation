@@ -1,4 +1,4 @@
-# Postman-ollection-creation-
+# Postman-collection-creation-
 
 # Assignment Text:
 As part of the assignment, we had to test all the methods that are presented for the https://petstore.swagger.io/ service in Postman and create corresponding collections.
